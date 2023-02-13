@@ -1,4 +1,4 @@
-# FDS_Final_Project
+# Fraudulent Transactions Detection
 ### Final project for the course in Foundamentals of Data Science (FDS) at La Sapienza university of Rome.
 
 ## Short description
